@@ -1,0 +1,23 @@
+body{
+    background-color: #cfe0c3;
+}
+
+.header-container{
+padding:2rem 0 2rem 0;
+background-color: #9ec1a3;
+}
+
+header{
+    float: left;    
+}
+header h1{
+    color:#14453D;
+}
+
+nav{
+    float: right;
+}
+
+.nav-link{
+padding: 1rem;
+}
